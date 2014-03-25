@@ -1,4 +1,0 @@
-linkbuilder
-===========
-
-Nothing special here.
